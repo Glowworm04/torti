@@ -1,0 +1,7 @@
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\bin\Debug\Test.exe.config
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\bin\Debug\Test.exe
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\bin\Debug\Test.pdb
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\obj\Debug\Test.exe
+C:\2018-2019 уч.год\Чемпионат WS\Test\Test\obj\Debug\Test.pdb
