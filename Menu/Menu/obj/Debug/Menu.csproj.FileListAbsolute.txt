@@ -1,0 +1,16 @@
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\bin\Debug\Menu.exe.config
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\bin\Debug\Menu.exe
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\bin\Debug\Menu.pdb
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.fmMenu.resources
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.fmImage.resources
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.exe
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.pdb
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.fmDGV.resources
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Interop.LCC11.dll
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.fmImage2.resources
+C:\2018-2019 уч.год\Чемпионат WS\Menu\Menu\obj\Debug\Menu.fmData.resources
